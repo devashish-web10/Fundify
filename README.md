@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fundify – MERN Crowdfunding Platform (Starter)
 
 This is a **starter codebase** for Fundify, a simple crowdfunding platform built with the MERN stack.
@@ -56,3 +57,7 @@ Push this repo to GitHub, then:
 - Frontend → Vercel/Netlify (Static)
 
 Enjoy hacking on Fundify! ✨
+=======
+# Fundify
+a sample website for crowdfunding
+>>>>>>> fd7ad22f70742b6fd79900ba351c5295b07421aa
